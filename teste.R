@@ -2,7 +2,7 @@
 x = 4
 y = 5
 x + y
-
+x*y
 credentials::set_github_pat("MyFirst")
 
 
